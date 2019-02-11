@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\100580555\source\repos\vectorclass\vectorclass\main.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Vector.cpp
+  Generating Code...
+  VectorClass.vcxproj -> C:\Users\100580555\source\repos\VectorClass\Debug\VectorClass.exe
